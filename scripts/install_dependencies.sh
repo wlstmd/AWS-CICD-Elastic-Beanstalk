@@ -14,6 +14,4 @@ npm install --save @nestjs/core
 
 npm install @nestjs/platform-express
 
-npm install pm2 -g
-
 echo "Dependencies installed."
