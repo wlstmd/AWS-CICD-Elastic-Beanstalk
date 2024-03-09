@@ -1,4 +1,8 @@
 #!/bin/bash
 sudo su
-cd /var/www/dist
-npm run start:prod
+
+echo "Starting the project..."
+
+npm run start
+
+echo "Project started."

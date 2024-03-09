@@ -1,5 +1,13 @@
 #!/bin/bash
+
 sudo su
-cd /var/www
-npm init -y
+
+echo "Installing dependencies..."
+
 npm install
+
+echo "Installing NestJS CLI..."
+
+npm install -g @nestjs/cli
+
+echo "Dependencies installed."

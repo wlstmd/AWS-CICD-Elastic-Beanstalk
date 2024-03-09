@@ -1,4 +1,8 @@
 #!/bin/bash
 sudo su
-cd /var/www
-npm run build
+
+echo "Building the project..."
+
+nest build
+
+echo "Build completed."
