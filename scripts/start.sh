@@ -3,6 +3,6 @@ sudo su
 
 echo "Starting the project..."
 
-npm run start
+pm2 start dist/main.js --name my-nest-app
 
 echo "Project started."
