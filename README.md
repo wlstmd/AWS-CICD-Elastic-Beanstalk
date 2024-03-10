@@ -1,3 +1,7 @@
+## Architecture
+
+<img width="783" alt="스크린샷 2024-03-10 오후 3 20 27" src="https://github.com/wlstmd/AWS-CICD-Elastic-Beanstalk/assets/127307160/dc1a1f70-23b4-4c0a-b5e4-da90738a2cbc">
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
